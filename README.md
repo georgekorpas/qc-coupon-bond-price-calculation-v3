@@ -1,7 +1,7 @@
 # **Monte Carlo Bond Pricing Solver - Optimized Version**  
 
 ## **Overview**  
-This solver estimates bond prices using a **Monte Carlo simulation** for short-rate dynamics under a simplified (Heath-Jarrow-Morton (HJM) model)[https://en.wikipedia.org/wiki/Heath%E2%80%93Jarrow%E2%80%93Morton_framework]. It incorporates **algorithmic improvements** to enhance efficiency and accuracy while maintaining the same input-output structure.  
+This solver estimates bond prices using a **Monte Carlo simulation** for short-rate dynamics under a simplified [https://en.wikipedia.org/wiki/Heath%E2%80%93Jarrow%E2%80%93Morton_framework](Heath-Jarrow-Morton (HJM) model). It incorporates **algorithmic improvements** to enhance efficiency and accuracy while maintaining the same input-output structure.  
 
 ## **Algorithmic Improvements**  
 
