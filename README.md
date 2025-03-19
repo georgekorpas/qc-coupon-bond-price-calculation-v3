@@ -16,8 +16,7 @@ This solver estimates bond prices using a **Monte Carlo simulation** for short-r
 - Uses **cumulative summation (`np.cumsum()`)** for **faster integration** in discount factor computation.  
 
 ## **Benefits of the Optimized Solver**  
-✅ **Faster Execution** → Vectorized computations reduce runtime.  
-✅ **Improved Accuracy** → Antithetic sampling lowers variance.  
-✅ **Better Scalability** → Efficient memory usage allows larger simulations.  
+✅ Faster execution times → Vectorized computations reduce runtime.  
+✅ Improved accuracy → Antithetic sampling lowers variance.  
+✅ Better scalability → Efficient memory usage allows larger simulations.  
 
-This improved solver provides **more precise bond price estimates** while maintaining the same input-output format, making it ideal for **large-scale financial simulations**. 🚀
